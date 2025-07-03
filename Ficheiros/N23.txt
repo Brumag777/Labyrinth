@@ -1,0 +1,18 @@
+5 13
+1 5
+8 7
+14 15
+###############
+#BBBBT#QBBBBBQ#
+#B#####B#####B#
+#B#BQBBBBBBB#B#
+#B#B#B#####B#B#
+#B#B#BBBBB#B#J#
+#BGB###B#B#B###
+#F#BBB#B#B#BBB#
+#B#B#BBC#B#B#B#
+#B#B#####B#B#B#
+#B#BBB#QFBBB#B#
+#B###B#######B#
+#BBBBB#BBBBBBB#
+#######P#######

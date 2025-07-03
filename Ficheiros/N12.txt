@@ -1,0 +1,13 @@
+7 1
+1 7
+1 1
+9 9
+#####P###
+#CG---GT#
+#QG-GGGG#
+#-pQGQQQP
+#-GpGpGG#
+#-------#
+#-GpGpGG#
+#JGQGQQQ#
+###P#####
