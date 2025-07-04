@@ -1,4 +1,4 @@
-# 🇵🇹 **Português**
+# PT **Português**
 
 ## 🧩 Labyrinth
 
@@ -24,7 +24,7 @@ Para correr o jogo, usa o seguinte comando na terminal (dentro da pasta do execu
 ./Labyrinth
 ```
 
-# 🇬🇧 **English**
+# US **English**
 
 ## 🧩 Labyrinth
 
