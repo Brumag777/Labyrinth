@@ -228,5 +228,8 @@ void imprimeMenuAjudaEdicao () {
             MAGENTA "Restrições\n\n"
             AZUL "Deve haver exatamente um Jerry, um Tom, uma chave e pelo menos uma porta exterior.\n" RESET
             AZUL "O número máximo de linhas e de colunas é 50.\n\n" RESET
+            MAGENTA "Controlos\n\n"
+            AZUL "Pressione 't' no menu principal para mudar o tipo de jogo entre níveis e presets.\n"
+            AZUL "Pressione 'e' para editar um preset.\n\n"
             MAGENTA "Nota:" AZUL " Pressione 's' para sair do menu de edição.\n\n" RESET);
 }
