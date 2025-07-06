@@ -33,7 +33,7 @@ void imprimeMenuPrincipal (int NiveisConcluidos, int NivelSelecionado, int PvE, 
                 printf (VERDE);
             } else printf (VERMELHO);
             if (n < 10) printf ("00");
-            else putchar ('0');
+            else putchar ('0'); 
             printf ("%d" RESET "║", 5 * i + j + 1);
         } putchar ('\n');
         if (i < 4) printf ("                                                                                         ╠═══╬═══╬═══╬═══╬═══╣\n");
