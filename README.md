@@ -48,3 +48,9 @@ To run the game, use the following command in the terminal (inside the executabl
 
 ```bash
 ./Labyrinth
+```
+
+# Imagens / Images
+
+![image](https://github.com/user-attachments/assets/7471df04-506b-4d8c-9e2f-3c788a79a7fb)
+![image](https://github.com/user-attachments/assets/cc3457f6-dfa2-46e0-8fd8-21f9459b077a)
